@@ -1,0 +1,1 @@
+python /home/kth8606/DeepHome/vae_stl10_style/style_transfer.py --ckpt /home/kth8606/DeepHome/vae_stl10/outputs/model_final.pt --out-dir /home/kth8606/DeepHome/vae_stl10/outputs --split test --device cuda --lambda-list 0.0 0.2 0.4 0.6 0.8 1.0 --alpha-list 0.0 0.2 0.4 0.6 0.8 1.0

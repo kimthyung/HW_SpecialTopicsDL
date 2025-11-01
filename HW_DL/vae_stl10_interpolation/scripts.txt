@@ -1,0 +1,3 @@
+python /home/kth8606/DeepHome/vae_stl10_interpolation/interpolate.py --ckpt /home/kth8606/DeepHome/vae_stl10/outputs/model_final.pt --out-dir /home/kth8606/DeepHome/vae_stl10/outputs --split test --device cuda
+
+
